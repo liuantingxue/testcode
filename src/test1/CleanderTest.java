@@ -24,8 +24,10 @@ public class CleanderTest {
 			
 		}
 		
+		System.out.println("¸ü¸Äjavaºóaddcommit²âÊÔ");
+		
+		
 	}
-	
 	
 
 }
